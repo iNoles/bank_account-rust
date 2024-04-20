@@ -1,10 +1,8 @@
 # bank_account-rust
 
-This project implements a simple bank system in Rust. It allows users to create accounts, deposit and withdraw funds, and view their transaction history.
+This project implements a simple bank system in Rust. It allows users to deposit and withdraw funds.
 
 ## Features
-
-- Account creation: Users can create bank accounts with unique account IDs.
 - Deposit: Users can deposit funds into their accounts.
 - Withdrawal: Users can withdraw funds from their accounts, provided they have sufficient balance.
 
