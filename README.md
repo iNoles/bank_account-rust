@@ -1,10 +1,11 @@
-# bank_account-rust
+# Bank Account Manager (Rust)
 
-This project implements a simple bank system in Rust. It allows users to deposit and withdraw funds.
+A simple command-line banking system written in Rust. This project allows users to securely deposit and withdraw funds with basic balance management.
 
 ## Features
 - Deposit: Users can deposit funds into their accounts.
-- Withdrawal: Users can withdraw funds from their accounts, provided they have sufficient balance.
+- Withdrawal — Withdraw funds (only if sufficient balance is available).
+- Balance Tracking — Keeps track of your current account balance.
 
 ## Installation
 
